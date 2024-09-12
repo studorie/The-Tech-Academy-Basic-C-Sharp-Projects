@@ -1,0 +1,14 @@
+C:\Users\studorie\Desktop\PitmanWorks\StudentReport\StudentReport\bin\Debug\net8.0\StudentReport.exe
+C:\Users\studorie\Desktop\PitmanWorks\StudentReport\StudentReport\bin\Debug\net8.0\StudentReport.deps.json
+C:\Users\studorie\Desktop\PitmanWorks\StudentReport\StudentReport\bin\Debug\net8.0\StudentReport.runtimeconfig.json
+C:\Users\studorie\Desktop\PitmanWorks\StudentReport\StudentReport\bin\Debug\net8.0\StudentReport.dll
+C:\Users\studorie\Desktop\PitmanWorks\StudentReport\StudentReport\bin\Debug\net8.0\StudentReport.pdb
+C:\Users\studorie\Desktop\PitmanWorks\StudentReport\StudentReport\obj\Debug\net8.0\StudentReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studorie\Desktop\PitmanWorks\StudentReport\StudentReport\obj\Debug\net8.0\StudentReport.AssemblyInfoInputs.cache
+C:\Users\studorie\Desktop\PitmanWorks\StudentReport\StudentReport\obj\Debug\net8.0\StudentReport.AssemblyInfo.cs
+C:\Users\studorie\Desktop\PitmanWorks\StudentReport\StudentReport\obj\Debug\net8.0\StudentReport.csproj.CoreCompileInputs.cache
+C:\Users\studorie\Desktop\PitmanWorks\StudentReport\StudentReport\obj\Debug\net8.0\StudentReport.dll
+C:\Users\studorie\Desktop\PitmanWorks\StudentReport\StudentReport\obj\Debug\net8.0\refint\StudentReport.dll
+C:\Users\studorie\Desktop\PitmanWorks\StudentReport\StudentReport\obj\Debug\net8.0\StudentReport.pdb
+C:\Users\studorie\Desktop\PitmanWorks\StudentReport\StudentReport\obj\Debug\net8.0\StudentReport.genruntimeconfig.cache
+C:\Users\studorie\Desktop\PitmanWorks\StudentReport\StudentReport\obj\Debug\net8.0\ref\StudentReport.dll
