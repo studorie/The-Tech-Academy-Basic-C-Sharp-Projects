@@ -1,0 +1,14 @@
+C:\Users\studorie\source\repos\StringAssessment\bin\Debug\net8.0\StringAssessment.exe
+C:\Users\studorie\source\repos\StringAssessment\bin\Debug\net8.0\StringAssessment.deps.json
+C:\Users\studorie\source\repos\StringAssessment\bin\Debug\net8.0\StringAssessment.runtimeconfig.json
+C:\Users\studorie\source\repos\StringAssessment\bin\Debug\net8.0\StringAssessment.dll
+C:\Users\studorie\source\repos\StringAssessment\bin\Debug\net8.0\StringAssessment.pdb
+C:\Users\studorie\source\repos\StringAssessment\obj\Debug\net8.0\StringAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studorie\source\repos\StringAssessment\obj\Debug\net8.0\StringAssessment.AssemblyInfoInputs.cache
+C:\Users\studorie\source\repos\StringAssessment\obj\Debug\net8.0\StringAssessment.AssemblyInfo.cs
+C:\Users\studorie\source\repos\StringAssessment\obj\Debug\net8.0\StringAssessment.csproj.CoreCompileInputs.cache
+C:\Users\studorie\source\repos\StringAssessment\obj\Debug\net8.0\StringAssessment.dll
+C:\Users\studorie\source\repos\StringAssessment\obj\Debug\net8.0\refint\StringAssessment.dll
+C:\Users\studorie\source\repos\StringAssessment\obj\Debug\net8.0\StringAssessment.pdb
+C:\Users\studorie\source\repos\StringAssessment\obj\Debug\net8.0\StringAssessment.genruntimeconfig.cache
+C:\Users\studorie\source\repos\StringAssessment\obj\Debug\net8.0\ref\StringAssessment.dll
