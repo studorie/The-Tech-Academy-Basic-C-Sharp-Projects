@@ -1,0 +1,14 @@
+C:\Users\studorie\source\repos\PackageExpress\bin\Debug\net8.0\PackageExpress.exe
+C:\Users\studorie\source\repos\PackageExpress\bin\Debug\net8.0\PackageExpress.deps.json
+C:\Users\studorie\source\repos\PackageExpress\bin\Debug\net8.0\PackageExpress.runtimeconfig.json
+C:\Users\studorie\source\repos\PackageExpress\bin\Debug\net8.0\PackageExpress.dll
+C:\Users\studorie\source\repos\PackageExpress\bin\Debug\net8.0\PackageExpress.pdb
+C:\Users\studorie\source\repos\PackageExpress\obj\Debug\net8.0\PackageExpress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studorie\source\repos\PackageExpress\obj\Debug\net8.0\PackageExpress.AssemblyInfoInputs.cache
+C:\Users\studorie\source\repos\PackageExpress\obj\Debug\net8.0\PackageExpress.AssemblyInfo.cs
+C:\Users\studorie\source\repos\PackageExpress\obj\Debug\net8.0\PackageExpress.csproj.CoreCompileInputs.cache
+C:\Users\studorie\source\repos\PackageExpress\obj\Debug\net8.0\PackageExpress.dll
+C:\Users\studorie\source\repos\PackageExpress\obj\Debug\net8.0\refint\PackageExpress.dll
+C:\Users\studorie\source\repos\PackageExpress\obj\Debug\net8.0\PackageExpress.pdb
+C:\Users\studorie\source\repos\PackageExpress\obj\Debug\net8.0\PackageExpress.genruntimeconfig.cache
+C:\Users\studorie\source\repos\PackageExpress\obj\Debug\net8.0\ref\PackageExpress.dll
