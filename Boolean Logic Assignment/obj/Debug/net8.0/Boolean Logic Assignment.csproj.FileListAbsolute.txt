@@ -1,0 +1,14 @@
+C:\Users\studorie\source\repos\Boolean Logic Assignment\bin\Debug\net8.0\Boolean Logic Assignment.exe
+C:\Users\studorie\source\repos\Boolean Logic Assignment\bin\Debug\net8.0\Boolean Logic Assignment.deps.json
+C:\Users\studorie\source\repos\Boolean Logic Assignment\bin\Debug\net8.0\Boolean Logic Assignment.runtimeconfig.json
+C:\Users\studorie\source\repos\Boolean Logic Assignment\bin\Debug\net8.0\Boolean Logic Assignment.dll
+C:\Users\studorie\source\repos\Boolean Logic Assignment\bin\Debug\net8.0\Boolean Logic Assignment.pdb
+C:\Users\studorie\source\repos\Boolean Logic Assignment\obj\Debug\net8.0\Boolean Logic Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studorie\source\repos\Boolean Logic Assignment\obj\Debug\net8.0\Boolean Logic Assignment.AssemblyInfoInputs.cache
+C:\Users\studorie\source\repos\Boolean Logic Assignment\obj\Debug\net8.0\Boolean Logic Assignment.AssemblyInfo.cs
+C:\Users\studorie\source\repos\Boolean Logic Assignment\obj\Debug\net8.0\Boolean Logic Assignment.csproj.CoreCompileInputs.cache
+C:\Users\studorie\source\repos\Boolean Logic Assignment\obj\Debug\net8.0\Boolean Logic Assignment.dll
+C:\Users\studorie\source\repos\Boolean Logic Assignment\obj\Debug\net8.0\refint\Boolean Logic Assignment.dll
+C:\Users\studorie\source\repos\Boolean Logic Assignment\obj\Debug\net8.0\Boolean Logic Assignment.pdb
+C:\Users\studorie\source\repos\Boolean Logic Assignment\obj\Debug\net8.0\Boolean Logic Assignment.genruntimeconfig.cache
+C:\Users\studorie\source\repos\Boolean Logic Assignment\obj\Debug\net8.0\ref\Boolean Logic Assignment.dll
