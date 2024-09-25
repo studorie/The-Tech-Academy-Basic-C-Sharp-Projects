@@ -1,0 +1,14 @@
+C:\Users\studorie\source\repos\PolymorphismAssessment\bin\Debug\net8.0\PolymorphismAssessment.exe
+C:\Users\studorie\source\repos\PolymorphismAssessment\bin\Debug\net8.0\PolymorphismAssessment.deps.json
+C:\Users\studorie\source\repos\PolymorphismAssessment\bin\Debug\net8.0\PolymorphismAssessment.runtimeconfig.json
+C:\Users\studorie\source\repos\PolymorphismAssessment\bin\Debug\net8.0\PolymorphismAssessment.dll
+C:\Users\studorie\source\repos\PolymorphismAssessment\bin\Debug\net8.0\PolymorphismAssessment.pdb
+C:\Users\studorie\source\repos\PolymorphismAssessment\obj\Debug\net8.0\PolymorphismAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studorie\source\repos\PolymorphismAssessment\obj\Debug\net8.0\PolymorphismAssessment.AssemblyInfoInputs.cache
+C:\Users\studorie\source\repos\PolymorphismAssessment\obj\Debug\net8.0\PolymorphismAssessment.AssemblyInfo.cs
+C:\Users\studorie\source\repos\PolymorphismAssessment\obj\Debug\net8.0\PolymorphismAssessment.csproj.CoreCompileInputs.cache
+C:\Users\studorie\source\repos\PolymorphismAssessment\obj\Debug\net8.0\PolymorphismAssessment.dll
+C:\Users\studorie\source\repos\PolymorphismAssessment\obj\Debug\net8.0\refint\PolymorphismAssessment.dll
+C:\Users\studorie\source\repos\PolymorphismAssessment\obj\Debug\net8.0\PolymorphismAssessment.pdb
+C:\Users\studorie\source\repos\PolymorphismAssessment\obj\Debug\net8.0\PolymorphismAssessment.genruntimeconfig.cache
+C:\Users\studorie\source\repos\PolymorphismAssessment\obj\Debug\net8.0\ref\PolymorphismAssessment.dll
