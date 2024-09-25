@@ -1,0 +1,14 @@
+C:\Users\studorie\source\repos\MethodClass\bin\Debug\net8.0\MethodClass.exe
+C:\Users\studorie\source\repos\MethodClass\bin\Debug\net8.0\MethodClass.deps.json
+C:\Users\studorie\source\repos\MethodClass\bin\Debug\net8.0\MethodClass.runtimeconfig.json
+C:\Users\studorie\source\repos\MethodClass\bin\Debug\net8.0\MethodClass.dll
+C:\Users\studorie\source\repos\MethodClass\bin\Debug\net8.0\MethodClass.pdb
+C:\Users\studorie\source\repos\MethodClass\obj\Debug\net8.0\MethodClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studorie\source\repos\MethodClass\obj\Debug\net8.0\MethodClass.AssemblyInfoInputs.cache
+C:\Users\studorie\source\repos\MethodClass\obj\Debug\net8.0\MethodClass.AssemblyInfo.cs
+C:\Users\studorie\source\repos\MethodClass\obj\Debug\net8.0\MethodClass.csproj.CoreCompileInputs.cache
+C:\Users\studorie\source\repos\MethodClass\obj\Debug\net8.0\MethodClass.dll
+C:\Users\studorie\source\repos\MethodClass\obj\Debug\net8.0\refint\MethodClass.dll
+C:\Users\studorie\source\repos\MethodClass\obj\Debug\net8.0\MethodClass.pdb
+C:\Users\studorie\source\repos\MethodClass\obj\Debug\net8.0\MethodClass.genruntimeconfig.cache
+C:\Users\studorie\source\repos\MethodClass\obj\Debug\net8.0\ref\MethodClass.dll
