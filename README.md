@@ -1,3 +1,12 @@
-# The-Tech-Academy-Basic-C-Sharp-Projects
+This repository contains a collection of basic C# projects completed during The Tech Academy curriculum. Below are the links to each project:
 
-TACN12E1 - C# and .NET Framework - Part 1 & 2 assignments
+Boolean Logic Assignment
+Car Insurance
+Console App Assignment
+Method Class
+Operators Assignment
+Package Express
+Polymorphism Assessment
+String Assessment
+Student Database App
+Student Report
